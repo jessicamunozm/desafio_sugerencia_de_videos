@@ -1,0 +1,26 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color:aquamarine;
+    color: #024A86;
+}
+
+img {
+    width: 10%;
+}
+
+.card {
+    margin-top: 2rem;
+    background-color: yellow;
+    text-decoration: none;
+    color: #024A86;
+    align-items: center;
+}
+
+.card-header {
+    background-color: transparent;
+}
+
+.btn {
+    font-size: 1.5rem;
+    color: #024A86;
+}
